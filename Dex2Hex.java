@@ -19,7 +19,7 @@ public static int Arg1;
         }
 
         System.out.println("Hexadecimal representation is: " + hexadecimal);
-	System.out.println("Processing input file: " + args[0]);
 
     }
 }
+
